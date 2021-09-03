@@ -1,0 +1,10 @@
+1. este player sirve solo para shoutcastV2, icecastV2 CON SSL y tambien para Radionomy, Radiojar y Radio.co
+2. subir los archivos en sus hosting
+3. copiar los codigos y poner los datos de su radio donde correspondan
+
+manual: https://radioplayer.luna-universe.com/documentation/jquery/#!/streamingtypes
+
+
+CODIGO IFRAME PARA: WODPRESS, BLOGSPORT, WIX ETC...
+
+<iframe frameborder='0' height='445' width='350' scrolling='no' src=' AQUI TU LINK DE DOMINIO '></iframe>
