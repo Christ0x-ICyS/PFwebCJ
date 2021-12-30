@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteRule ^/?$ index.html
+RewriteRule ^radio/?$ radio.html
+RewriteRule ^gracias/?$ gracias.html
